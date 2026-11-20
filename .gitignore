@@ -1,0 +1,13 @@
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+
+# Training outputs (large, can be regenerated)
+qwen_policy_lora/
